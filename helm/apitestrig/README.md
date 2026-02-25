@@ -1,4 +1,4 @@
-# APITESTRIG
+## APITESTRIG
 
 Helm chart to deploy APITESTRIG for `MOSIP` modules
 
